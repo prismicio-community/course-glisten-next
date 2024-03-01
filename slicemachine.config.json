@@ -1,0 +1,6 @@
+{
+  "libraries": ["./src/slices"],
+  "adapter": "@slicemachine/adapter-next",
+  "repositoryName": "glisten-ai",
+  "localSliceSimulatorURL": "http://localhost:3000/slice-simulator"
+}
