@@ -14,6 +14,7 @@
     "format": "prettier --write ."
   },
   "dependencies": {
+    "@gsap/react": "^2.1.0",
     "@prismicio/client": "^7.3.1",
     "@prismicio/next": "^1.5.0",
     "@prismicio/react": "^2.7.3",
@@ -21,6 +22,7 @@
     "@types/react": "^18.2.33",
     "@types/react-dom": "^18.2.14",
     "clsx": "^2.1.0",
+    "gsap": "^3.12.5",
     "next": "^14.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
