@@ -11,7 +11,7 @@ export default function StarGrid() {
   const prefersReducedMotion = usePrefersReducedMotion();
   gsap.registerPlugin(useGSAP);
 
-  const grid: [number, number] = [14, 30];
+  const grid = [14, 30] as const;
 
   useGSAP(
     () => {
