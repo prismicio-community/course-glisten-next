@@ -93,6 +93,8 @@ export default function AnimatedContent({
           <PrismicNextImage
             className="rounded-lg"
             field={slice.primary.image}
+            priority
+            sizes="100vw"
           />
         </div>
       )}
