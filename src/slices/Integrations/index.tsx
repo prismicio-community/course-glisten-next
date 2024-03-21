@@ -8,11 +8,8 @@ import {
 import StarBackground from "./StarBackground";
 import Image from "next/image";
 
-import StylizedLogoMark from "./StylizedLogoMark";
-
 import background from "./background.jpg";
 import React from "react";
-import clsx from "clsx";
 import AnimatedContent from "./AnimatedContent";
 
 /**
