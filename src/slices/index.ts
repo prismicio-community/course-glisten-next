@@ -6,6 +6,7 @@ export const components = {
   bento: dynamic(() => import("./Bento")),
   call_to_action: dynamic(() => import("./CallToAction")),
   case_studies: dynamic(() => import("./CaseStudies")),
+  feature_list: dynamic(() => import("./FeatureList")),
   hero: dynamic(() => import("./Hero")),
   integrations: dynamic(() => import("./Integrations")),
   rich_text: dynamic(() => import("./RichText")),

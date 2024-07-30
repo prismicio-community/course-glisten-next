@@ -1,0 +1,651 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "reversed",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Money"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Et cillum aute dolor adipisicing cupidatat dolore voluptate laboris Lorem mollit pariatur dolore."
+						}
+					}
+				]
+			},
+			"features": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Honor"
+											}
+										}
+									]
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Aliquip minim ad reprehenderit exercitation laboris tempor officia anim excepteur commodo.",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Saviour",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Quis occaecat cillum eiusmod voluptate Lorem ex nulla Lorem ea in proident quis aute magna in.",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Valor",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Laboris proident labore velit pariatur ea deserunt irure velit tempor.",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							]
+						]
+					}
+				]
+			},
+			"checklist": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"icon",
+								{
+									"__TYPE__": "ImageContent",
+									"url": "https://images.unsplash.com/photo-1517976487492-5750f3195933?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwyfHxyb2NrZXR8ZW58MHx8fHwxNzIyMzMwNTY1fDA&ixlib=rb-4.0.3&q=85&rect=0%2C4%2C3000%2C1992&w=128&h=85",
+									"alt": "gray spacecraft taking off during daytime",
+									"origin": {
+										"id": "OHOU-5UVIYQ",
+										"url": "https://images.unsplash.com/photo-1517976487492-5750f3195933?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwyfHxyb2NrZXR8ZW58MHx8fHwxNzIyMzMwNTY1fDA&ixlib=rb-4.0.3&q=85",
+										"width": 3000,
+										"height": 2000
+									},
+									"width": 128,
+									"height": 85,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 4
+										}
+									},
+									"thumbnails": {}
+								}
+							],
+							[
+								"label",
+								{
+									"__TYPE__": "FieldContent",
+									"type": "Text",
+									"value": "SSO, SAML, SCIM"
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"icon",
+								{
+									"__TYPE__": "ImageContent",
+									"url": "https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwzfHxyb2NrZXR8ZW58MHx8fHwxNzIyMzMwNTY1fDA&ixlib=rb-4.0.3&q=85&rect=0%2C4%2C3000%2C1992&w=128&h=85",
+									"alt": "rocket ship photography",
+									"origin": {
+										"id": "uj3hvdfQujI",
+										"url": "https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwzfHxyb2NrZXR8ZW58MHx8fHwxNzIyMzMwNTY1fDA&ixlib=rb-4.0.3&q=85",
+										"width": 3000,
+										"height": 2000
+									},
+									"width": 128,
+									"height": 85,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 4
+										}
+									},
+									"thumbnails": {}
+								}
+							],
+							[
+								"label",
+								{
+									"__TYPE__": "FieldContent",
+									"type": "Text",
+									"value": "SOC 2 Compliant"
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"icon",
+								{
+									"__TYPE__": "ImageContent",
+									"url": "https://images.unsplash.com/photo-1517976547714-720226b864c1?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw2fHxyb2NrZXR8ZW58MHx8fHwxNzIyMzMwNTY1fDA&ixlib=rb-4.0.3&q=85&rect=0%2C4%2C3000%2C1992&w=128&h=85",
+									"alt": "twom white flying rockets during daytime",
+									"origin": {
+										"id": "MEW1f-yu2KI",
+										"url": "https://images.unsplash.com/photo-1517976547714-720226b864c1?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw2fHxyb2NrZXR8ZW58MHx8fHwxNzIyMzMwNTY1fDA&ixlib=rb-4.0.3&q=85",
+										"width": 3000,
+										"height": 2000
+									},
+									"width": 128,
+									"height": 85,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 4
+										}
+									},
+									"thumbnails": {}
+								}
+							],
+							[
+								"label",
+								{
+									"__TYPE__": "FieldContent",
+									"type": "Text",
+									"value": "Multi-region support"
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"icon",
+								{
+									"__TYPE__": "ImageContent",
+									"url": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMnx8cm9ja2V0fGVufDB8fHx8MTcyMjMzMDU2NXww&ixlib=rb-4.0.3&q=85&rect=0%2C4%2C3000%2C1992&w=128&h=85",
+									"alt": "rocket ship launching during daytime",
+									"origin": {
+										"id": "Ptd-iTdrCJM",
+										"url": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMnx8cm9ja2V0fGVufDB8fHx8MTcyMjMzMDU2NXww&ixlib=rb-4.0.3&q=85",
+										"width": 3000,
+										"height": 2000
+									},
+									"width": 128,
+									"height": 85,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 4
+										}
+									},
+									"thumbnails": {}
+								}
+							],
+							[
+								"label",
+								{
+									"__TYPE__": "FieldContent",
+									"type": "Text",
+									"value": "Advanced admin controls"
+								}
+							]
+						]
+					}
+				]
+			},
+			"image": {
+				"__TYPE__": "ImageContent",
+				"url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxfHxzcGFjZSUyMGVsZWN0cm9uaWN8ZW58MHx8fHwxNzIyMzI5OTExfDA&ixlib=rb-4.0.3&q=85",
+				"alt": "photo of outer space",
+				"origin": {
+					"id": "Q1p7bh3SHj8",
+					"url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxfHxzcGFjZSUyMGVsZWN0cm9uaWN8ZW58MHx8fHwxNzIyMzI5OTExfDA&ixlib=rb-4.0.3&q=85",
+					"width": 4256,
+					"height": 2832
+				},
+				"width": 4256,
+				"height": 2832,
+				"edit": {
+					"background": "transparent",
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"thumbnails": {}
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Money"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Et cillum aute dolor adipisicing cupidatat dolore voluptate laboris Lorem mollit pariatur dolore."
+						}
+					}
+				]
+			},
+			"features": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Honor"
+											}
+										}
+									]
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Aliquip minim ad reprehenderit exercitation laboris tempor officia anim excepteur commodo.",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Saviour",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Quis occaecat cillum eiusmod voluptate Lorem ex nulla Lorem ea in proident quis aute magna in.",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Valor",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Laboris proident labore velit pariatur ea deserunt irure velit tempor.",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							]
+						]
+					}
+				]
+			},
+			"checklist": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"icon",
+								{
+									"__TYPE__": "ImageContent",
+									"url": "https://images.unsplash.com/photo-1517976487492-5750f3195933?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwyfHxyb2NrZXR8ZW58MHx8fHwxNzIyMzMwNTY1fDA&ixlib=rb-4.0.3&q=85&rect=0%2C4%2C3000%2C1992&w=128&h=85",
+									"alt": "gray spacecraft taking off during daytime",
+									"origin": {
+										"id": "OHOU-5UVIYQ",
+										"url": "https://images.unsplash.com/photo-1517976487492-5750f3195933?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwyfHxyb2NrZXR8ZW58MHx8fHwxNzIyMzMwNTY1fDA&ixlib=rb-4.0.3&q=85",
+										"width": 3000,
+										"height": 2000
+									},
+									"width": 128,
+									"height": 85,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 4
+										}
+									},
+									"thumbnails": {}
+								}
+							],
+							[
+								"label",
+								{
+									"__TYPE__": "FieldContent",
+									"type": "Text",
+									"value": "SSO, SAML, SCIM"
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"icon",
+								{
+									"__TYPE__": "ImageContent",
+									"url": "https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwzfHxyb2NrZXR8ZW58MHx8fHwxNzIyMzMwNTY1fDA&ixlib=rb-4.0.3&q=85&rect=0%2C4%2C3000%2C1992&w=128&h=85",
+									"alt": "rocket ship photography",
+									"origin": {
+										"id": "uj3hvdfQujI",
+										"url": "https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwzfHxyb2NrZXR8ZW58MHx8fHwxNzIyMzMwNTY1fDA&ixlib=rb-4.0.3&q=85",
+										"width": 3000,
+										"height": 2000
+									},
+									"width": 128,
+									"height": 85,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 4
+										}
+									},
+									"thumbnails": {}
+								}
+							],
+							[
+								"label",
+								{
+									"__TYPE__": "FieldContent",
+									"type": "Text",
+									"value": "SOC 2 Compliant"
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"icon",
+								{
+									"__TYPE__": "ImageContent",
+									"url": "https://images.unsplash.com/photo-1517976547714-720226b864c1?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw2fHxyb2NrZXR8ZW58MHx8fHwxNzIyMzMwNTY1fDA&ixlib=rb-4.0.3&q=85&rect=0%2C4%2C3000%2C1992&w=128&h=85",
+									"alt": "twom white flying rockets during daytime",
+									"origin": {
+										"id": "MEW1f-yu2KI",
+										"url": "https://images.unsplash.com/photo-1517976547714-720226b864c1?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw2fHxyb2NrZXR8ZW58MHx8fHwxNzIyMzMwNTY1fDA&ixlib=rb-4.0.3&q=85",
+										"width": 3000,
+										"height": 2000
+									},
+									"width": 128,
+									"height": 85,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 4
+										}
+									},
+									"thumbnails": {}
+								}
+							],
+							[
+								"label",
+								{
+									"__TYPE__": "FieldContent",
+									"type": "Text",
+									"value": "Multi-region support"
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"icon",
+								{
+									"__TYPE__": "ImageContent",
+									"url": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMnx8cm9ja2V0fGVufDB8fHx8MTcyMjMzMDU2NXww&ixlib=rb-4.0.3&q=85&rect=0%2C4%2C3000%2C1992&w=128&h=85",
+									"alt": "rocket ship launching during daytime",
+									"origin": {
+										"id": "Ptd-iTdrCJM",
+										"url": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMnx8cm9ja2V0fGVufDB8fHx8MTcyMjMzMDU2NXww&ixlib=rb-4.0.3&q=85",
+										"width": 3000,
+										"height": 2000
+									},
+									"width": 128,
+									"height": 85,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 4
+										}
+									},
+									"thumbnails": {}
+								}
+							],
+							[
+								"label",
+								{
+									"__TYPE__": "FieldContent",
+									"type": "Text",
+									"value": "Advanced admin controls"
+								}
+							]
+						]
+					}
+				]
+			},
+			"image": {
+				"__TYPE__": "ImageContent",
+				"url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxfHxzcGFjZSUyMGVsZWN0cm9uaWN8ZW58MHx8fHwxNzIyMzI5OTExfDA&ixlib=rb-4.0.3&q=85",
+				"alt": "photo of outer space",
+				"origin": {
+					"id": "Q1p7bh3SHj8",
+					"url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxfHxzcGFjZSUyMGVsZWN0cm9uaWN8ZW58MHx8fHwxNzIyMzI5OTExfDA&ixlib=rb-4.0.3&q=85",
+					"width": 4256,
+					"height": 2832
+				},
+				"width": 4256,
+				"height": 2832,
+				"edit": {
+					"background": "transparent",
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"thumbnails": {}
+			}
+		},
+		"items": []
+	}
+]
