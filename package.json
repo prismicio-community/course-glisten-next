@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-starter-prismic-minimal-ts",
+  "name": "glisten-ai",
   "version": "0.1.0",
   "private": true,
   "license": "Apache-2.0",
@@ -11,11 +11,12 @@
     "start": "next start",
     "lint": "next lint",
     "slicemachine": "start-slicemachine",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "set-up-content": "npx tsx@latest set-up-content"
   },
   "dependencies": {
     "@gsap/react": "^2.1.1",
-    "@prismicio/client": "^7.6.0",
+    "@prismicio/client": "^7.11.0",
     "@prismicio/next": "^1.6.0",
     "@prismicio/react": "^2.8.0",
     "@types/node": "^20.14.10",
