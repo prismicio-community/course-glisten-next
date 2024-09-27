@@ -12,7 +12,7 @@
     "lint": "next lint",
     "slicemachine": "start-slicemachine",
     "format": "prettier --write .",
-    "set-up-content": "npx tsx@latest set-up-content"
+    "set-up-content": "npx tsx@latest ./set-up-content.ts"
   },
   "dependencies": {
     "@gsap/react": "^2.1.1",
