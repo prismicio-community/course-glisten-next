@@ -1,5 +1,8 @@
 # Glisten-ai Tutorial Course
 
+> [!NOTE]
+> This is the finished code for a Prismic course. It is archived and no longer updated. To start a new Prismic project with Next.js, see the [Next.js guide](https://prismic.io/docs/nextjs).
+
 This is the final code for the YouTube tutorial course where we build a dark Next.js, Prismic, Tailwind, TypeScript, and GSAP website.
 
 For more information and to watch the course, go to the [course documentation](https://prismic.notion.site/Prismic-Next-js-Course-Resources-9eda931a8b3743b9b3aaf0b7a561403b).
